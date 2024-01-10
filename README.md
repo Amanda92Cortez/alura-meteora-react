@@ -26,8 +26,6 @@
 - `Executar` npm dev
 
 ## 📚Telas/Vídeos
-IMAGEM/VIDEO
-
 ![GIF da aplicação em execução](meteora-app.gif)
 
 
@@ -35,7 +33,7 @@ IMAGEM/VIDEO
 
 
 
-
+</br></br></br></br></br></br>
 
 ## 🔨 Funcionalidades do projeto
 
