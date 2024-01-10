@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADA&color=RED&style=for-the-badge" #vitrinedev/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM_ANDAMENTO&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
 
 <h1>Meteora Alura</h1>
@@ -28,22 +28,14 @@
 ## 📚Telas/Vídeos
 IMAGEM/VIDEO
 
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-
-<a href="https://api.whatsapp.com/send?phone=+5512992085484&text=Vim%20pelo%20Github" title="Amanda Cortez"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  /> </a>
-
-
-
-
-
-
-![Meteora](thumbnail.png)
-
-# Meteora - E-commerce de Moda
-
-O Meteora é um projeto de e-commerce em fase de desenvolvimento inicial. Este README fornece informações sobre o projeto, suas funcionalidades e como executá-lo em seu ambiente local.
-
 ![GIF da aplicação em execução](meteora-app.gif)
+
+
+
+
+
+
+
 
 ## 🔨 Funcionalidades do projeto
 
