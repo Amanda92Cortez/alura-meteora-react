@@ -1,39 +1,10 @@
-<p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM_ANDAMENTO&color=RED&style=for-the-badge" #vitrinedev/>
-</p>
+![Meteora](thumbnail.png)
 
-<h1>Meteora Alura</h1>
+# Meteora - E-commerce de Moda
 
-# :pushpin: Sobre do projeto
-- `Formação` Explore React com JavaScript
-- `Curso: React` React: gerencie estados globalmente com Context API
-</br></br>
+O Meteora é um projeto de e-commerce em fase de desenvolvimento inicial. Este README fornece informações sobre o projeto, suas funcionalidades e como executá-lo em seu ambiente local.
 
-# :hammer: Funcionalidades do projeto
-- `Funcionalidade` Adicionar os itens do carrinho. Remover itens do carrinho. Visualizar os itens do carrinho. Deletar itens do carrinho.
-</br></br>
-
-# :bookmark_tabs: Tecnologias
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141)
-![React](https://img.shields.io/badge/React-414141?style=for-the-badge&logo=react&logoColor=61DAFB)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Context API]
-
-## 🛠️ Abrir e rodar o projeto
-- `Baixar projeto` git clone https://github.com/Amanda92Cortez/alura-meteora.git
-- `Baixar npm` npm install
-- `Executar` npm dev
-
-## 📚Telas/Vídeos
 ![GIF da aplicação em execução](meteora-app.gif)
-
-
-
-
-
-
-</br></br></br></br></br></br>
 
 ## 🔨 Funcionalidades do projeto
 
