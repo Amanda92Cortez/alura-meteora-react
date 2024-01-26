@@ -9,6 +9,11 @@
 
 # :pushpin: Cursos
 - `Curso ` React: gerencie estados globalmente com Context API
+   - Identifique os conceitos da Context API no React e sua importância no desenvolvimento de aplicações
+   - Aplique a Context API para evitar o 'prop drilling', simplificando o compartilhamento de dados entre componentes
+   - Crie seus próprios contextos em projetos React, permitindo o compartilhamento de estados globais, como temas e tokens de acesso
+   - Depure e solucione problemas relacionados à Context API, usando ferramentas como o React Context DevTools
+   - Combine a Context API com o useReducer para gerenciar estados complexos
 
 # :hammer: Funcionalidades do projeto
 - `Funcionalidade ` Plataforma de E-comerce de Moda, adicionar itens ao carrinho, remover itens do carrinho, visualizar a página do carrinho, deletar itens do carrinho
