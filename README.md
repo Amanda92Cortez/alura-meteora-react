@@ -36,9 +36,3 @@
 
 ## 📚Telas/Vídeos
 ![GIF da aplicação em execução](meteora-app.gif)
-
-O Meteora é um e-commerce fictício de moda em constante desenvolvimento. Este projeto visa aprimorar as habilidades em React, e apresentar a Context API como uma solução para gerenciamento de estados globais de uma aplicação React.
-
-O design e protótipo deste projeto podem ser encontrados [aqui](https://www.figma.com/file/R5ATrWK1nC44Eyeo6XZXlr/Meteora---Context-API?node-id=2386%3A2430&mode=dev).
-
-Aproveite o desenvolvimento e aprimoramento do Meteora!
