@@ -4,8 +4,7 @@
 App de simulação de um e-commerce dos produtos
 
 ## 🔨 Funcionalidades do projeto
-Plataforma de E-comerce de Moda, adicionar itens ao carrinho, remover itens do carrinho, visualizar a página do carrinho, deletar itens do carrinho. Tendo 
-
+Plataforma de E-comerce de Moda, adicionar itens ao carrinho, remover itens do carrinho, visualizar a página do carrinho, deletar itens do carrinho. 
 
 ## :bookmark_tabs: Técnicas e tecnologias utilizadas
 As técnicas e tecnologias utilizadas pra isso são:
