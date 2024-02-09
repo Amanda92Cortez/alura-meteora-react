@@ -28,7 +28,8 @@ Tela de detalhes
 ![GIF da aplicação em execução](meteora-app.gif)
 
 ## 📚Telas/Vídeos
-![Uploading 300000951-06cfa1b5-670f-4fad-8f88-8fab388c433e.png…]()
+![300000951-06cfa1b5-670f-4fad-8f88-8fab388c433e](https://github.com/Amanda92Cortez/alura-meteora-react/assets/19363871/1003e142-39de-4a25-a6f5-0080329e8df9)
+
 
 ## 📁 Acesso ao projeto
 Você pode [acessar o código fonte do projeto inicial](https://github. XXXXXXXXXXX) ou [baixá-lo](https://github. XXXXXXXX .zip).
