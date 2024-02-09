@@ -1,17 +1,11 @@
 <p align="center"> <img src="http://img.shields.io/static/v1?label=STATUS_GERAL&message=FINALIZADA&color=RED&style=for-the-badge" #vitrinedev/> </p>
 
 # Meteora
-App de simulação de um e-commerce ......
+App de simulação de um e-commerce dos produtos
 
 ## 🔨 Funcionalidades do projeto
-- `Funcionalidade ` Plataforma de E-comerce de Moda, adicionar itens ao carrinho, remover itens do carrinho, visualizar a página do carrinho, deletar itens do carrinho
-- `React ` - Framework JavaScript
-- `Vite ` - Build tool para desenvolvimento rápido
-- `JavaScript ` - Linguagem de programação principal
-- `Context API ` - Para gerenciamento de estado
-- `useReducer ` - Para controle de estado
-- `useMemo ` - Para otimização de desempenho
-- `Bootstrap ` - Framework de design e componentes
+Plataforma de E-comerce de Moda, adicionar itens ao carrinho, remover itens do carrinho, visualizar a página do carrinho, deletar itens do carrinho. Tendo 
+
 
 ## :bookmark_tabs: Técnicas e tecnologias utilizadas
 As técnicas e tecnologias utilizadas pra isso são:
