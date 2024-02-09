@@ -32,7 +32,7 @@ Tela de detalhes
 
 
 ## 📁 Acesso ao projeto
-Você pode [acessar o código fonte do projeto inicial](https://github. XXXXXXXXXXX) ou [baixá-lo](https://github. XXXXXXXX .zip).
+Você pode [acessar o código fonte do projeto inicial](https://github.com/Amanda92Cortez/alura-meteora-react) ou [baixá-lo](https://github.com/Amanda92Cortez/alura-meteora-react/archive/refs/heads/main.zip).
 
 ## 🛠️ Abrir e rodar o projeto
 - ` Baixar projeto ` git clone https://github.com/Amanda92Cortez/alura-meteora-react.git
