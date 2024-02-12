@@ -1,6 +1,6 @@
 <p align="center"> <img src="http://img.shields.io/static/v1?label=STATUS_GERAL&message=FINALIZADA&color=RED&style=for-the-badge" #vitrinedev/> </p>
 
-# Meteora
+# Meteora - React
 App de simulação de um e-commerce dos produtos
 
 ## 🔨 Funcionalidades do projeto
@@ -22,10 +22,6 @@ Tela de detalhes
 
 ## 📚Telas/Vídeos
 ![300000951-06cfa1b5-670f-4fad-8f88-8fab388c433e](https://github.com/Amanda92Cortez/alura-meteora-react/assets/19363871/1003e142-39de-4a25-a6f5-0080329e8df9)
-
-
-## 📁 Acesso ao projeto
-Você pode [acessar o código fonte do projeto inicial](https://github.com/Amanda92Cortez/alura-meteora-react) ou [baixá-lo](https://github.com/Amanda92Cortez/alura-meteora-react/archive/refs/heads/main.zip).
 
 ## 🛠️ Abrir e rodar o projeto
 - ` Baixar projeto ` git clone https://github.com/Amanda92Cortez/alura-meteora-react.git
